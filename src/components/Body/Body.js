@@ -22,7 +22,7 @@ const Body=()=>{
                         <a href="https://www.linkedin.com/in/rathoreharsh-o1/" target="_blank" rel="noreferrer" className="icon-link"><i><FaLinkedin /></i></a>
                 </div>
                 <div className="body-download">
-                   <a href="https://drive.google.com/file/d/1GMm9s5OYhz3ogXHithEyDQpTLgyxd5Uq/view?usp=sharing" target="_blank"> <button ><div className="download"><i><AiOutlineDownload fontSize="1.5rem"  / ></i> Download CV</div></button></a>
+                   <a href="https://drive.google.com/file/d/1MQMtnMkB6M7G5NZYaOYmyh0tUTQk7w8q/view?usp=sharing" target="_blank"> <button ><div className="download"><i><AiOutlineDownload fontSize="1.5rem"  / ></i> Download CV</div></button></a>
                 </div>
             </div>
         </div>
