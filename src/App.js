@@ -1,10 +1,10 @@
 import "./App.css";
-import Header from "./components/Header"
-import Body from "./components/Body"
-import About from "./components/About"
-import Projects from "./components/Projects"
-import Skills from "./components/Skills"
-import Footer from "./components/Footer"
+import Header from "./components/Header/Header"
+import Body from "./components/Body/Body"
+import About from "./components/About/About"
+import MyProjects from "./components/MyProjects/MyProjects"
+import Skills from "./components/Skills/Skills"
+import Footer from "./components/Footer/Footer"
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
       <Skills/>
       <About/>
       
-      <Projects/>
+      <MyProjects/>
       <Footer/>
     </div>
   );

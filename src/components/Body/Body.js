@@ -2,7 +2,7 @@ import React from "react"
 import { FaGithub ,FaLinkedin } from "react-icons/fa"
 import {AiOutlineDownload}from "react-icons/ai"
 
-import Avatar from "../assets/Software.jpg"
+import Avatar from "../../assets/Software.jpg"
 
 const Body=()=>{
     return (
