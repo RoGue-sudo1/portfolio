@@ -55,7 +55,7 @@ export const projectsData = [
     codeLink: "https://github.com/RoGue-sudo1/meme_generator",
   },
   {
-    cover: "projects_header/meme_generator.png",
+    cover: "projects_header/airbnb_clone.png",
     title: "Airbnb Clone",
     description: "A static web application clone of Airbnb ",
     techStack: ["HTML", "CSS", "JavaScript", "React"],
