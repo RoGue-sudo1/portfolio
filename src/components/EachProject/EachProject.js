@@ -9,9 +9,7 @@ const EachProject = (props) => {
         <div className={styles.title}>{props.title}</div>
         <div className={styles.description}>{props.description}</div>
         <div className={styles["tech-stack"]}>
-          <span className={styles["tech-stack-heading"]}>
-            Tech Stack:&nbsp;
-          </span>
+          <span className={styles["tech-stack-heading"]}>Tech:&nbsp;</span>
           {props.techStack
             ? props.techStack.map((tech, i) => {
                 return (
