@@ -60,6 +60,6 @@ export const projectsData = [
     description: "A static web application clone of Airbnb ",
     techStack: ["HTML", "CSS", "JavaScript", "React"],
 
-    codeLink: "https://github.com/thecurious1-sudo/LiveDoc",
+    codeLink: "https://github.com/RoGue-sudo1/Airbnb_Clone",
   },
 ];
