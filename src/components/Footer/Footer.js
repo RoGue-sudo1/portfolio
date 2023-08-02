@@ -120,15 +120,9 @@ const Footer = () => {
                     </div> */}
           </div>
         </div>
+        <hr ></hr>
         <div className="footer-declaration">
-          <hr
-            style={{
-              background: "grey",
-              height: "1px",
-              width: "200rem",
-              border: "none",
-            }}
-          />
+          
 
           <p className="copyright">
             <span style={{ color: "grey" }}>Created by</span> Harsh Rathore{" "}

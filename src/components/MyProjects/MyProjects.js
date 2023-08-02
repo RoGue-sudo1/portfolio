@@ -4,7 +4,7 @@ import {projectsData} from '../data/projectsData'
 
 const MyProjects = () => {
   return (
-    <div className={styles.main}>
+    <div id="projects" className={styles.main}>
       <div className={styles.heading}>My Projects</div>
       <div className={styles.projects}>
         {projectsData
