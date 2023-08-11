@@ -51,7 +51,7 @@ export const projectsData = [
     description: "A task manager to make day-to-day life easier",
     techStack: ["HTML", "CSS", "JavaScript", "React",'Firebase'],
     previewLink:'https://easymanager.netlify.app/',
-    codeLink: "https://github.com/RoGue-sudo1/Airbnb_Clone",
+    codeLink: "https://github.com/RoGue-sudo1/Trello_Clone",
   },
   {
     cover: "projects_header/meme_generator.png",
