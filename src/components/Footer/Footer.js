@@ -44,7 +44,7 @@ const Footer = () => {
             <div className="footer-left">
               <div className="footer-contact-info">
                 <h1 className="footer-heading">
-                  Lets <br /> Connect!
+                  Let's <br /> Connect!
                 </h1>
                 <p className="footer-contact-access">
                   <b>Email:</b> harshrathore7514@gmail.com
