@@ -43,6 +43,15 @@ export const projectsData = [
       "Video conferencing web application for direct and group calls using webRTC",
     techStack: ["HTML", "CSS", "JavaScript", "React", "Socket.io", "WebRTC"],
     codeLink: "https://github.com/RoGue-sudo1/VideoTalker_frontend",
+    previewLink: "https://videotalker.netlify.app/",
+  },
+  {
+    cover: "projects_header/task_manager.png",
+    title: "Task Manager",
+    description: "A task manager to make day-to-day life easier",
+    techStack: ["HTML", "CSS", "JavaScript", "React",'Firebase'],
+    previewLink:'https://easymanager.netlify.app/',
+    codeLink: "https://github.com/RoGue-sudo1/Airbnb_Clone",
   },
   {
     cover: "projects_header/meme_generator.png",
@@ -62,4 +71,5 @@ export const projectsData = [
 
     codeLink: "https://github.com/RoGue-sudo1/Airbnb_Clone",
   },
+  
 ];
